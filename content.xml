@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260613131223RRM4M7</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260613131223L7A8R4</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>EN BUSCA DEL TESORO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Sda Los Piratas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Raquel Jiménez Garrido</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta situación de aprendizaje sobre los piratas es un recurso pedagógico altamente motivador en Educación Infantil. Su importancia radica en que utiliza el juego simbólico y la fantasía para captar la atención del alumnado, facilitando el desarrollo integral, la socialización y el aprendizaje significativo de manera transversal.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781349065102</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mqc98nda-m1euhq3nr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN DE LA SITUACIÓN DE APRENDIZAJE</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DE LA SITUACIÓN DE APRENDIZAJE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DE LA SITUACIÓN DE APRENDIZAJE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN DE LA SITUACIÓN DE APRENDIZAJE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqc98nda-m1euhq3nr</odePageId>
+      <odeBlockId>block-1780510922927-6nurvhb9n</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqc98nda-m1euhq3nr</odePageId>
+          <odeBlockId>block-1780510922927-6nurvhb9n</odeBlockId>
+          <odeIdeviceId>idevice-1780510922923-q9yq19hb1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">¡Bienvenidos a bordo de esta aventura!</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">¿Queréis ayudar a la pirata Morgana a encontrar su tesoro? Es muy sencillo: para ello tenemos que investigar sobre los piratas a través de una serie de juegos y actividades propuestas por la seño y superar un reto final presentado a través de la herramienta digital Canva.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">¿Estáis preparados? Pues... ¡al abordaje!</span></p>
+<figure class="exe-figure position-center" style="width: 612px;"><img src="{{context_path}}/content/resources/FOTO MAPA PIRATAS.jpg" title="Mapa del tesoro" width="612" height="409" alt="Foto del mapa del tesoro" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780510922923-q9yq19hb1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">¡Bienvenidos a bordo de esta aventura!</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">¿Queréis ayudar a la pirata Morgana a encontrar su tesoro? Es muy sencillo: para ello tenemos que investigar sobre los piratas a través de una serie de juegos y actividades propuestas por la seño y superar un reto final presentado a través de la herramienta digital Canva.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">¿Estáis preparados? Pues... ¡al abordaje!</span></p>\n<figure class=\"exe-figure position-center\" style=\"width: 612px;\"><img src=\"{{context_path}}/content/resources/FOTO MAPA PIRATAS.jpg\" title=\"Mapa del tesoro\" width=\"612\" height=\"409\" alt=\"Foto del mapa del tesoro\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqc98ndd-zyn8a5hw9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES Y GARANTÍAS DE DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqc98ndd-zyn8a5hw9</odePageId>
+      <odeBlockId>block-1780511600951-fkgkj67mu</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqc98ndd-zyn8a5hw9</odePageId>
+          <odeBlockId>block-1780511600951-fkgkj67mu</odeBlockId>
+          <odeIdeviceId>idevice-1780511600948-mu6mumw6a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif; font-size: 14pt;">En la siguiente infografía tendrás toda la información necesaria acerca de la protección de datos personales y garantías de derechos digitales.</span></p>
+<figure class="exe-figure position-center" style="width: 800px; text-align: center;"><img src="{{context_path}}/content/resources/Beige and pink Playful Illustrated Tips for Learning of English by Children Infographic.jpg" title="Infografía" width="800" height="2000" alt="Infografía sobre protección de datos personales y garantías de derechos digitales" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780511600948-mu6mumw6a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif; font-size: 14pt;\">En la siguiente infografía tendrás toda la información necesaria acerca de la protección de datos personales y garantías de derechos digitales.</span></p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Beige and pink Playful Illustrated Tips for Learning of English by Children Infographic.jpg\" title=\"Infografía\" width=\"800\" height=\"2000\" alt=\"Infografía sobre protección de datos personales y garantías de derechos digitales\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqc98ndd-e99rgkr0k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SITUACIÓN DE APRENDIZAJE: LOS PIRATAS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SITUACIÓN DE APRENDIZAJE: LOS PIRATAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SITUACIÓN DE APRENDIZAJE: LOS PIRATAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SITUACIÓN DE APRENDIZAJE: LOS PIRATAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqc98ndd-e99rgkr0k</odePageId>
+      <odeBlockId>block-1780512014960-7mi2imq2r</odeBlockId>
+      <blockName>Información general</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqc98ndd-e99rgkr0k</odePageId>
+          <odeBlockId>block-1780512014960-7mi2imq2r</odeBlockId>
+          <odeIdeviceId>idevice-1780512014956-8u3jnjatm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">En el siguiente enlace tenéis toda la información referente a la situación de aprendizaje: justificación, centro de interés, nivel educativo, idioma, temporalización, objetivos y materias implicadas.</span></p>
+<p><a href="https://canva.link/w1e19r7uyxurl0y" title="Situación de aprendizaje los piratas">https://canva.link/w1e19r7uyxurl0y</a></p>
+<p></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780512014956-8u3jnjatm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">En el siguiente enlace tenéis toda la información referente a la situación de aprendizaje: justificación, centro de interés, nivel educativo, idioma, temporalización, objetivos y materias implicadas.</span></p>\n<p><a href=\"https://canva.link/w1e19r7uyxurl0y\" title=\"Situación de aprendizaje los piratas\">https://canva.link/w1e19r7uyxurl0y</a></p>\n<p></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqc98nde-y5ywe58lw</odePageId>
+  <odeParentPageId>page-mqc98ndd-e99rgkr0k</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqc98nde-y5ywe58lw</odePageId>
+      <odeBlockId>block-1780512876576-q7vanw524</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqc98nde-y5ywe58lw</odePageId>
+          <odeBlockId>block-1780512876576-q7vanw524</odeBlockId>
+          <odeIdeviceId>idevice-1780512876573-iqu2b9ief</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">En el siguiente enlace podréis ver el documento en el que relaciono las tareas de esta situación de aprendizaje con sus criterios de evaluación.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Dichos criterios están basados en la legislación vigente correspondiente a la etapa de Educación Infantil en la comunidad autónoma de Andalucía e incluyen las áreas de crecimiento en armonía, descubrimiento y exploración del entorno y comunicación y representación de la realidad.</span></p>
+<p><a href="https://drive.google.com/file/d/1NGtJzPcsS-IX1MlSSdDbeG0D3q9OsCWf/view?usp=sharing" title="Relación de tareas con criterios de evaluación">https://drive.google.com/file/d/1NGtJzPcsS-IX1MlSSdDbeG0D3q9OsCWf/view?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780512876573-iqu2b9ief","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">En el siguiente enlace podréis ver el documento en el que relaciono las tareas de esta situación de aprendizaje con sus criterios de evaluación.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Dichos criterios están basados en la legislación vigente correspondiente a la etapa de Educación Infantil en la comunidad autónoma de Andalucía e incluyen las áreas de crecimiento en armonía, descubrimiento y exploración del entorno y comunicación y representación de la realidad.</span></p>\n<p><a href=\"https://drive.google.com/file/d/1NGtJzPcsS-IX1MlSSdDbeG0D3q9OsCWf/view?usp=sharing\" title=\"Relación de tareas con criterios de evaluación\">https://drive.google.com/file/d/1NGtJzPcsS-IX1MlSSdDbeG0D3q9OsCWf/view?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqc98ndf-uepgamgc0</odePageId>
+  <odeParentPageId>page-mqc98ndd-e99rgkr0k</odeParentPageId>
+  <pageName>Curación y organización de contenidos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación y organización de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación y organización de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Curación y organización de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqc98ndf-uepgamgc0</odePageId>
+      <odeBlockId>block-1780513634444-lg0328db7</odeBlockId>
+      <blockName>Contenidos</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqc98ndf-uepgamgc0</odePageId>
+          <odeBlockId>block-1780513634444-lg0328db7</odeBlockId>
+          <odeIdeviceId>idevice-1780513634439-bqz7rthj8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Enfocado al alumnado y para tener los contenidos organizados en mi día a día en el aula, la herramienta que utilizo es Padlet.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">He diseñado un Padlet específico para esta situación de aprendizaje en el que ofrezco a mi alumnado distintas actividades relacionadas con la misma para así reforzar sus aprendizajes: videos, canciones y bailes, cuentos, juegos de adivinanzas interactivos y un cuadernillo de actividades fotocopiables.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://padlet.com/rjimgar809/los-piratas-190n1em5hou7ost2" title="Padlet: los piratas">https://padlet.com/rjimgar809/los-piratas-190n1em5hou7oc</a></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Con respecto al profesorado, la herramienta que utilizo para organizar los contenidos es Symbaloo. Me parece muy útil porque me permite ver de un solo golpe de vista todos los recursos web y páginas que voy a utilizar para el transcurso de la situación de aprendizaje, siendo bastante cómodo a la hora de programar las actividades.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"><a href="https://www.symbaloo.com/shared/AAAAAReXTG0AA41-5Eam8A==" title="Symbaloo">https://www.symbaloo.com/shared/AAAAAReXTG0AA41-5Eam8A==</a></span></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780513634439-bqz7rthj8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Enfocado al alumnado y para tener los contenidos organizados en mi día a día en el aula, la herramienta que utilizo es Padlet.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">He diseñado un Padlet específico para esta situación de aprendizaje en el que ofrezco a mi alumnado distintas actividades relacionadas con la misma para así reforzar sus aprendizajes: videos, canciones y bailes, cuentos, juegos de adivinanzas interactivos y un cuadernillo de actividades fotocopiables.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><a href=\"https://padlet.com/rjimgar809/los-piratas-190n1em5hou7ost2\" title=\"Padlet: los piratas\">https://padlet.com/rjimgar809/los-piratas-190n1em5hou7oc</a></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Con respecto al profesorado, la herramienta que utilizo para organizar los contenidos es Symbaloo. Me parece muy útil porque me permite ver de un solo golpe de vista todos los recursos web y páginas que voy a utilizar para el transcurso de la situación de aprendizaje, siendo bastante cómodo a la hora de programar las actividades.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><a href=\"https://www.symbaloo.com/shared/AAAAAReXTG0AA41-5Eam8A==\" title=\"Symbaloo\">https://www.symbaloo.com/shared/AAAAAReXTG0AA41-5Eam8A==</a></span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqc98ndf-4qxcef0fs</odePageId>
+  <odeParentPageId>page-mqc98ndd-e99rgkr0k</odeParentPageId>
+  <pageName>Línea del tiempo y organización temporal</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea del tiempo y organización temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea del tiempo y organización temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqc98ndf-4qxcef0fs</odePageId>
+      <odeBlockId>block-1780514878264-85vkuzj6p</odeBlockId>
+      <blockName>Línea del tiempo</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqc98ndf-4qxcef0fs</odePageId>
+          <odeBlockId>block-1780514878264-85vkuzj6p</odeBlockId>
+          <odeIdeviceId>idevice-1780514878259-9e3cqa1fv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">En el siguiente enlace os dejo toda la información a cerca de: quiénes somos y cuál es nuestra tarea, el tiempo que necesitaremos para realizarla, cómo nos vamos a organizar, qué vamos a necesitar y cuál es el papel de nuestra familia.</span></p>
+<p><a href="https://view.genially.com/6a083bcae1016fc0edd2978d" title="Línea del tiempo">https://view.genially.com/6a083bcae1016fc0edd2978d</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780514878259-9e3cqa1fv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">En el siguiente enlace os dejo toda la información a cerca de: quiénes somos y cuál es nuestra tarea, el tiempo que necesitaremos para realizarla, cómo nos vamos a organizar, qué vamos a necesitar y cuál es el papel de nuestra familia.</span></p>\n<p><a href=\"https://view.genially.com/6a083bcae1016fc0edd2978d\" title=\"Línea del tiempo\">https://view.genially.com/6a083bcae1016fc0edd2978d</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqc98ndg-1zfvtp09y</odePageId>
+  <odeParentPageId>page-mqc98ndd-e99rgkr0k</odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqc98ndg-1zfvtp09y</odePageId>
+      <odeBlockId>block-1780940840415-bhhw2vrtd</odeBlockId>
+      <blockName>Actividades</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqc98ndg-1zfvtp09y</odePageId>
+          <odeBlockId>block-1780940840415-bhhw2vrtd</odeBlockId>
+          <odeIdeviceId>idevice-1780940840410-lic5so124</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Las actividades educativas son el conjunto de acciones y dinámicas que he diseñado para promover el aprendizaje. Mi propósito es que los alumnos interactúen con el conocimiento, lo apliquen, y desarrollen competencias.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">A continuación, adjunto el enlace con las actividades de esta situación de aprendizaje:</span></p>
+<p><a href="https://drive.google.com/file/d/1i5-qObsJsWiVWBUVaruJ62ktyiL4PMnL/view?usp=sharing" title="Actividades">https://drive.google.com/file/d/1i5-qObsJsWiVWBUVaruJ62ktyiL4PMnL/view?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780940840410-lic5so124","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Las actividades educativas son el conjunto de acciones y dinámicas que he diseñado para promover el aprendizaje. Mi propósito es que los alumnos interactúen con el conocimiento, lo apliquen, y desarrollen competencias.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">A continuación, adjunto el enlace con las actividades de esta situación de aprendizaje:</span></p>\n<p><a href=\"https://drive.google.com/file/d/1i5-qObsJsWiVWBUVaruJ62ktyiL4PMnL/view?usp=sharing\" title=\"Actividades\">https://drive.google.com/file/d/1i5-qObsJsWiVWBUVaruJ62ktyiL4PMnL/view?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqc98ndh-9nspv72ql</odePageId>
+  <odeParentPageId>page-mqc98ndg-1zfvtp09y</odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqc98ndh-9nspv72ql</odePageId>
+      <odeBlockId>block-1780941036272-vcdlu145d</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqc98ndh-9nspv72ql</odePageId>
+          <odeBlockId>block-1780941036272-vcdlu145d</odeBlockId>
+          <odeIdeviceId>idevice-1780941036267-srmhmzdrp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">A lo largo de toda la situación de aprendizaje, los niños y las niñas han ido aprendiendo a modificar plantillas muy sencillas en CANVA.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">El producto final de esta situación de aprendizaje es que sean capaces de modificar una bandera en CANVA y convertirla en una bandera pirata.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Si lo consiguen, la pirata mala les devolverá el tesoro de la pirata Morgana.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">¿Serán capaces de conseguirlo?</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780941036267-srmhmzdrp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">A lo largo de toda la situación de aprendizaje, los niños y las niñas han ido aprendiendo a modificar plantillas muy sencillas en CANVA.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">El producto final de esta situación de aprendizaje es que sean capaces de modificar una bandera en CANVA y convertirla en una bandera pirata.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Si lo consiguen, la pirata mala les devolverá el tesoro de la pirata Morgana.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">¿Serán capaces de conseguirlo?</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqc98ndi-a4b9u4wv3</odePageId>
+  <odeParentPageId>page-mqc98ndd-e99rgkr0k</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqc98ndi-a4b9u4wv3</odePageId>
+      <odeBlockId>block-1780515637734-7qywz7bb1</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqc98ndi-a4b9u4wv3</odePageId>
+          <odeBlockId>block-1780515637734-7qywz7bb1</odeBlockId>
+          <odeIdeviceId>idevice-1780515637732-2xgxygci7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">La evaluación es un proceso continuo y sistemático de recopilación y análisis de información.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Su objetivo es valorar los conocimientos, habilidades y el progreso de los alumnos y alumnas para emitir juicios de valor y tomar decisiones que optimicen el proceso de enseñanza - aprendizaje.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">La evaluación la voy a llevar a cabo en el aula en dos vertientes:</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">- Evaluación del grado de adquisición de aprendizajes en mi alumnado (realizada por la tutora).</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">- Evaluación del grado de motivación de mi alumnado (realizada por el alumnado).</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780515637732-2xgxygci7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">La evaluación es un proceso continuo y sistemático de recopilación y análisis de información.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Su objetivo es valorar los conocimientos, habilidades y el progreso de los alumnos y alumnas para emitir juicios de valor y tomar decisiones que optimicen el proceso de enseñanza - aprendizaje.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">La evaluación la voy a llevar a cabo en el aula en dos vertientes:</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">- Evaluación del grado de adquisición de aprendizajes en mi alumnado (realizada por la tutora).</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">- Evaluación del grado de motivación de mi alumnado (realizada por el alumnado).</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqc98ndj-198wnb81o</odePageId>
+  <odeParentPageId>page-mqc98ndi-a4b9u4wv3</odeParentPageId>
+  <pageName>Criterios de evaluación: rúbrica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación: rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación: rúbrica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Criterios de evaluación: rúbrica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqc98ndj-198wnb81o</odePageId>
+      <odeBlockId>block-1780516141223-bi4020rsx</odeBlockId>
+      <blockName>Criterios de evaluación en una rúbrica</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqc98ndj-198wnb81o</odePageId>
+          <odeBlockId>block-1780516141223-bi4020rsx</odeBlockId>
+          <odeIdeviceId>idevice-1780516141222-uzgzb7yys</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Las rúbricas evalúan el grado de consecución de los saberes básicos que pretendo que interioricen mis alumnos y alumnas. </span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Será, por tanto, una evaluación basada en el proceso personal de aprendizaje de cada uno de ellos y ellas.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Es realizada por la tutora y la técnica principal es la observación directa, observando como realizan en el día a día mis alumnos y alumnas sus tareas, su grado de implicación, de motivación, etc.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">A continuación, adjunto el documento de la rúbrica con los criterios de evaluación de esta situación de aprendizaje:</span></p>
+<p><a href="https://drive.google.com/file/d/1j7wnzO5j0H8qsn_j8tFs-SCCae3vbMFk/view?usp=sharing" title="Rúbrica con los criterios de evaluación">https://drive.google.com/file/d/1j7wnzO5j0H8qsn_j8tFs-SCCae3vbMFk/view?usp=sharing</a></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780516141222-uzgzb7yys","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Las rúbricas evalúan el grado de consecución de los saberes básicos que pretendo que interioricen mis alumnos y alumnas. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Será, por tanto, una evaluación basada en el proceso personal de aprendizaje de cada uno de ellos y ellas.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Es realizada por la tutora y la técnica principal es la observación directa, observando como realizan en el día a día mis alumnos y alumnas sus tareas, su grado de implicación, de motivación, etc.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">A continuación, adjunto el documento de la rúbrica con los criterios de evaluación de esta situación de aprendizaje:</span></p>\n<p><a href=\"https://drive.google.com/file/d/1j7wnzO5j0H8qsn_j8tFs-SCCae3vbMFk/view?usp=sharing\" title=\"Rúbrica con los criterios de evaluación\">https://drive.google.com/file/d/1j7wnzO5j0H8qsn_j8tFs-SCCae3vbMFk/view?usp=sharing</a></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqc98ndj-xljzha8e9</odePageId>
+  <odeParentPageId>page-mqc98ndi-a4b9u4wv3</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqc98ndj-xljzha8e9</odePageId>
+      <odeBlockId>block-1780936348839-dykapqxvf</odeBlockId>
+      <blockName>El cuestionario de autoevaluación</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqc98ndj-xljzha8e9</odePageId>
+          <odeBlockId>block-1780936348839-dykapqxvf</odeBlockId>
+          <odeIdeviceId>idevice-1780936348837-ezmv2m59a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Un cuestionario de autoevaluación en educación es una herramienta en la que los estudiantes revisan y valoran su propio proceso de aprendizaje. Promueve la metacognición (aprender a aprender) ayudándoles a identificar sus fortalezas, reconocer sus áreas de mejora y asumir la responsabilidad de su propio progreso. </span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Al finalizar la situación de aprendizaje, mi alumnado rellenará de forma individual un cuestionario en el que valorará su grado de motivación, su rol en el equipo y su sensación general al finalizar el mismo.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Es un cuestionario muy sencillo en el que deben colorear la expresión de la cara que más se identifica con sus sensaciones.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">A continuación, adjunto el enlace al mismo:</span></p>
+<p><a href="https://canva.link/4j5ma1x3alzt2p7" title="Cuestionario de autoevaluación">https://canva.link/4j5ma1x3alzt2p7</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780936348837-ezmv2m59a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Un cuestionario de autoevaluación en educación es una herramienta en la que los estudiantes revisan y valoran su propio proceso de aprendizaje. Promueve la metacognición (aprender a aprender) ayudándoles a identificar sus fortalezas, reconocer sus áreas de mejora y asumir la responsabilidad de su propio progreso. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Al finalizar la situación de aprendizaje, mi alumnado rellenará de forma individual un cuestionario en el que valorará su grado de motivación, su rol en el equipo y su sensación general al finalizar el mismo.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Es un cuestionario muy sencillo en el que deben colorear la expresión de la cara que más se identifica con sus sensaciones.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">A continuación, adjunto el enlace al mismo:</span></p>\n<p><a href=\"https://canva.link/4j5ma1x3alzt2p7\" title=\"Cuestionario de autoevaluación\">https://canva.link/4j5ma1x3alzt2p7</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqc98ndk-vgr96x7se</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqc98ndk-vgr96x7se</odePageId>
+      <odeBlockId>block-1781348106812-72x676vm0</odeBlockId>
+      <blockName>Información</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqc98ndk-vgr96x7se</odePageId>
+          <odeBlockId>block-1781348106812-72x676vm0</odeBlockId>
+          <odeIdeviceId>idevice-1781348106808-dr7s0uume</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">EN BUSCA DEL TESORO</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Esta situación de aprendizaje sobre los piratas es un recurso pedagógico altamente motivador en Educación Infantil. Su importancia radica en que utiliza el juego simbólico y la fantasía para captar la atención del alumnado, facilitando el desarrollo integral, la socialización y el aprendizaje significativo de manera transversal.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Raquel Jiménez Garrido</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
